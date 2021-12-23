@@ -1,0 +1,262 @@
+{
+  "users": {
+    "6288220597959@s.whatsapp.net": {
+      "exp": 570,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6282311607868@s.whatsapp.net": {
+      "exp": 79,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Fuadbot",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6289530177638@s.whatsapp.net": {
+      "exp": 137,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ilman",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "628814037606@s.whatsapp.net": {
+      "exp": 65,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "_Ade_",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6281312698507@s.whatsapp.net": {
+      "exp": 19,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Fatih",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6285374165870@s.whatsapp.net": {
+      "exp": 17,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "ppp",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6282284426885@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Offline",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6281339843139@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "jeky",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "62895638913700@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Sihab",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "628814037606-1633682884@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "Selamat datang",
+      "sBye": "Dadah semoga kembali",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6289530177638-1635640355@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6281312698507@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6282393588447-1631108275@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "8617012343600-1519271144@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    }
+  },
+  "stats": {
+    "attp.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1640231530493,
+      "lastSuccess": 1640231530493
+    },
+    "menu.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1640231877183,
+      "lastSuccess": 1640231877183
+    },
+    "setwelcome.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640191939984,
+      "lastSuccess": 1640191939984
+    },
+    "enable.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1640192011170,
+      "lastSuccess": 1640191973175
+    },
+    "setbye.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1640192002809,
+      "lastSuccess": 1640192002809
+    },
+    "speed.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640230507066,
+      "lastSuccess": 1640230507066
+    },
+    "addprems.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640230575202,
+      "lastSuccess": 1640230575202
+    },
+    "sticker.js": {
+      "total": 6,
+      "success": 5,
+      "last": 1640231980512,
+      "lastSuccess": 1640231980512
+    },
+    "waifu.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1640232368541,
+      "lastSuccess": 1640232368541
+    },
+    "memeg.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1640233992034,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {}
+}
